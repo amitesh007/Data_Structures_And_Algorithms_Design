@@ -1,6 +1,8 @@
 # Data_Structures_And_Algorithms_Design
 Data_Structures_And_Algorithms_Design
 
+Unzip the file and import it via eclipse.
+
 Divide and Conquer Method – Nuts and Bolts (Design Strategy)
 
 Context:
@@ -20,15 +22,6 @@ For divide sub-routine I am going to use Quick Sort.
 3.	Recursively call the left partition- Left -[low...pivot-1]
 4.	Recursively call the right partition- Right -[pivot+1…high]
 Finally, we can get the matching pair of nuts and bolts from their pivot positions for every partition.
-
-
-
-
-
-
-
-
-
 
 
 
